@@ -6,5 +6,5 @@ Block cipher working mode：
 - ECB
 - CBC
 
-[AES介绍](http://changsk.top/2020/04/16/AES128/)
+For an introduction to AES, please see [this blog](http://changsk.top/2020/04/16/AES128/)
 > reference:https://github.com/lmshao/AES
